@@ -1,0 +1,24 @@
+{
+  "name": "random-helper",
+  "version": "1.0.2",
+  "description": "A better random number generator",
+  "main": "src/random-helper.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstkim7/random-helper.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "Sung Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstkim7/random-helper/issues"
+  },
+  "homepage": "https://github.com/jstkim7/random-helper"
+}
