@@ -11,6 +11,13 @@ Load the module and use away!
 
 ```
 var rh = require('random-helper');
+
+// #randomInt(minimum, maximum, positiveOrNegative)
+
+// #randomFloat(minimum, maximum, numberOfDecimalPlaces, positiveOrNegative)
+
+// #randomBoolean()
+
 ```
 
 Example:
